@@ -1,8 +1,21 @@
+# Social Media Clone
+
+### By: Chee Murakami, Nitun Datta, Celeste Field
+
+## Description 
+ _This project is a mock up of the social media platform._
+
+
+<image src="public/facebook-clone.png" width="550px">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
@@ -43,6 +56,10 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+## Known Bugs
+
+_No known bugs at this time._
+
 ### Code Splitting
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
@@ -66,3 +83,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### License
+
+*This software is licensed under the MIT license*
+
+Copyright (c) 2020 **_ Chee Murakami, Nitun Datta, Celeste Field**
