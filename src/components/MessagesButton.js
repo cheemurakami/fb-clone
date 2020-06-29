@@ -2,7 +2,7 @@ import React from 'react'
 
  function MessagesButton() {
   return (
-   <burron type="button">Messages</burron>
+   <button type="button">Messages</button>
   )
 }
 export default MessagesButton;

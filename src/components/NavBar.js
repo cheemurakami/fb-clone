@@ -6,17 +6,18 @@ import HomeButton from './HomeButton';
 
 function NavBar() {
   return (
+    <React.Fragment>
     <div class= "nav-bar">
       <div className="nav-buttons">
-    <React.Fragment>
-      <MeasagesButton />
-      <NotificationButton />
-      <HomeButton />
-      <div className ="search-bar">
-      <SearchBar/>
-      </div>
-      </div>
-      <hr/>
+        <MessagesButton />
+        <NotificationButton />
+        <HomeButton />
+        </div>
+        <div className ="search-bar">
+          <SearchBar/>
+        </div>
+        </div>
       </React.Fragment>
   );
 }
+export default NavBar;
