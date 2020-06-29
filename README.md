@@ -6,6 +6,7 @@
  _This project is a mock up of the social media platform._
 
 
+
 <image src="public/facebook-clone.png" width="550px">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
