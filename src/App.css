@@ -44,3 +44,47 @@
 }
 
 
+.columns {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.column2 {
+  width: 40vw;
+}
+
+.column1, .column3 {
+  width: 30vw;
+}
+
+.box {
+  border: 1px solid #273f8b;
+  border-radius: 5px;
+  margin: 1vw;
+  padding: 2%;
+}
+
+.profile-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3%;
+}
+
+.profile-nav a {
+  color: #111111;
+  text-decoration: none;
+}
+
+.profile-photo img {
+  width: 100%;
+}
+
+.profile-name {
+  width: 70%;
+}
+
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
