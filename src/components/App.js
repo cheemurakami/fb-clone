@@ -8,7 +8,10 @@ function App() {
   return (
     <React.Fragment>
       <Header />
+      <div className="box">
       <NotificationList />
+      </div>
+      
       <div className="box">
         <Profile />
       </div>
